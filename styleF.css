@@ -11,7 +11,7 @@
 {
 
 	width: 100%;
-	background: #FF3278;
+	background: #EEB1A2;
 	color: #F2F2F2;
 	display: block;
 	font-family: 'Ubuntu Condensed', sans-serif;
@@ -61,6 +61,7 @@ h2
 	font-size: 25px;
 	font-weight: lighter;
 	transform: uppercase;
+	color: #0687F5
 }
 
 .border
